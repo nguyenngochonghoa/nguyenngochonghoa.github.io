@@ -6,7 +6,6 @@
 ## About Me
 Data Analyst Intern with strong interest in business analytics and growth optimization.  
 Experienced in analyzing large-scale platform data (250K+ users) to identify conversion bottlenecks, user behavior patterns, and performance improvement opportunities.  
-
 Skilled in building dashboards and translating data into actionable insights to support business growth, sales efficiency, and decision-making in fast-paced environments.
 
 ---
@@ -24,15 +23,7 @@ GPA: 3.5/4.0
 Ho Chi Minh City  
 Oct 2025 – Jan 2026  
 
-- Built weekly business dashboards (Looker Studio) tracking **250K+ users, 74K+ jobs, 70K+ resumes**
-- Centralized multi-source data (Google Sheets) to improve reporting efficiency  
-- Analyzed conversion funnel → identified bottlenecks:
-  - CV creation: **18%**
-  - Application rate: **8%**
-- Evaluated hiring efficiency:
-  - **4.25 applications/job**
-  - **52 days time-to-fill**
-- Identified only **3.99% high-performing jobs** → supported prioritization strategies  
+Built executive-level dashboards in Looker Studio to track key platform metrics across 250K+ users, 74K+ jobs, and 70K+ resumes, supporting COO-level decision-making. Centralized multi-source data to standardize reporting workflows and improve KPI visibility for internal teams. Analyzed user funnel performance, identifying low conversion rates in CV creation (18%) and job applications (8%), and provided insights to optimize the candidate journey. Additionally, evaluated job performance and hiring efficiency, uncovering low application rates and long time-to-fill, enabling HR teams to refine job posting strategies and prioritize high-performing listings.
 
 ---
 
@@ -42,10 +33,7 @@ Oct 2025 – Jan 2026
 **Tools:** Power BI, DAX, Power Query  
 🔗 [View Project](https://github.com/nguyenngochonghoa/Power-BI-Retail-Sales-Analysis-Dashboard)
 
-- Processed **115K+ transactions**
-- Built **star schema data model**
-- Designed dashboard tracking sales, inventory, product performance  
-- Found **71.85% unsold SKUs** → improved inventory & sales strategy  
+This project presents an interactive Power BI dashboard designed to analyze retail sales performance and support business decision-making. By transforming raw transactional data into a structured star-schema model, I developed dynamic dashboards to track key KPIs such as revenue, units sold, and average order value across time, regions, channels, and product segments. The analysis uncovered critical insights, including strong revenue concentration in the East region, the dominance of Online and Outlet channels, and a significant proportion of unsold products across the portfolio. At the product level, high-performing segments such as Productivity and Extreme were identified, while large volumes of underperforming SKUs highlighted the need for portfolio optimization. Based on these findings, I provided recommendations to improve channel strategy, reduce inventory inefficiencies, and focus on high-value segments. This project demonstrates my ability to design scalable data models, build interactive dashboards using Power BI and DAX, and translate complex data into actionable business insights.
 
 ---
 
@@ -53,12 +41,7 @@ Oct 2025 – Jan 2026
 **Tools:** Excel, Power Query  
 🔗 [View Project](https://github.com/nguyenngochonghoa/Excel-US-Superstore-Business-Analytics-Dashboard)
 
-- Led team of 4 to build sales analytics dashboard  
-- Cleaned **10K+ records**  
-- Built dashboards with Pivot Tables, Slicers, VBA  
-- Identified:
-  - **+20% sales growth**
-  - **+14% profit increase**
+This project presents an interactive Excel dashboard analyzing retail sales and profit performance using the US Superstore dataset (2014–2017). By leveraging Pivot Tables, slicers, and VBA automation, I transformed raw transactional data into a structured reporting system to track key KPIs such as sales, profit, and growth rates across categories, regions, cities, and customer segments. The analysis revealed strong year-over-year growth in 2017, but with margin pressure as profit growth lagged behind sales. High-performing subcategories such as Appliances, Phones, and Binders were identified, while underperforming areas like Machines and Tables highlighted the need for strategic adjustments. Additionally, significant regional and city-level disparities, as well as strong seasonality in Q4, were uncovered. Based on these insights, I proposed recommendations to optimize product portfolio, focus on high-growth markets, improve pricing strategies, and align sales efforts with seasonal demand. This project demonstrates my ability to combine Excel-based analytics, business thinking, and data storytelling to drive actionable decisions.
 
 ---
 
@@ -66,11 +49,7 @@ Oct 2025 – Jan 2026
 **Tools:** SQL  
 🔗 [View Project](https://github.com/nguyenngochonghoa/Nashville-Housing-Data-Cleaning-Analysis-in-SQL)
 
-- Processed **50K+ records** using SQL (CTEs, joins)  
-- Standardized and structured datasets  
-- Identified:
-  - Price trends & seasonality  
-  - Undervalued properties (**40–70% below value**)  
+This project focuses on cleaning and analyzing Nashville housing data to uncover real estate market trends and investment opportunities. Using SQL (T-SQL), I transformed raw and inconsistent data into a clean, structured dataset by handling missing values, standardizing formats, and removing duplicates. I then conducted business analysis to evaluate how property values vary across land use types, tax districts, property age, and housing features. The analysis revealed key insights such as strong market growth between 2013–2016, higher value concentration in luxury suburbs, and the importance of bathrooms over bedrooms in driving prices. Additionally, I identified undervalued properties and seasonal patterns affecting buying and selling strategies. Based on these findings, I provided recommendations to help investors optimize timing, target high-potential segments, and make data-driven real estate decisions. This project demonstrates my ability to combine data cleaning, SQL analysis, and business thinking to generate actionable insights.
 
 ---
 
